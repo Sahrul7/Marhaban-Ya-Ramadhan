@@ -11,6 +11,14 @@ body {
 .container {
 	display: none;
 }
+
+@media screen and (max-width: 780px) {
+.container
+text-align: center;
+width: auto;
+float: none;
+}
+
 .peach {
 	background-color: #FFFACD;
 	
